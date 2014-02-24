@@ -1,0 +1,6 @@
+Citalopram|Celexa
+Escitalopram|Lexapro
+Fluoxetine|Prozac|Serafem|Selfemra
+Fluvoxamine|Luvox
+Paroxetine|Paxil|Pexeva
+Sertraline|Zoloft
