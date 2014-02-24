@@ -11,7 +11,7 @@ mghassem {AT} mit {DOT} edu
 Quick script to parse out medications from discharge summaries in MIMIC format. Note that this approach is brute force: it uses minimal NLP, and can be vastly improved. (hint, hint)
 
 If you use this code, please cite the GitHub project (see below for Bibtex):
-@misc{Ghassemi2012,
+@misc{Ghassemi2012,\\
   author = {Ghassemi, Marzyeh},
   title = {Discharge Summary Based Pre-Admission (Home) Medication Parser},
   year = {2012},
