@@ -3,7 +3,8 @@ medicationCategories
 
 %--------------------------------  
 Written by Marzyeh Ghassemi, CSAIL, MIT  
-Sept 21, 2012  
+Sept 21, 2012 
+Updated 13 Nov, 2017
 Please contact the author with errors found.  
 mghassem {AT} mit {DOT} edu  
 %--------------------------------  
@@ -21,7 +22,7 @@ If you use this code, please cite the GitHub project (see below for Bibtex):
   commit = {PASTE THE COMMIT VERSION YOU'RE USING HERE}  
 }  
 
-The script is set up to use a specific export of the MIMIC notes database. Essentially, this is a directory with a file per patient, and within that file the patient notes separated by a _*:-:*_ delimiter. So you'll need to modify to suit the format you export to.  
+The script is set up to run on the MIMIC `noteevents` table in a Postgres database. Please refer to the Jupyter Notebook (finddrugs.ipynb) for example usage. 
 
 Thanks!  
-Marzyeh  
+Marzyeh
